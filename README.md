@@ -33,7 +33,7 @@ Following actions should be performed:
 
 Identify the output variable.
 
-To identify the output variable in a dataset, you will first need to load the dataset and understand the structure and content of the data. Here is an example of how you could do this in Python:
+To identify the output variable in a dataset, you will first need to load the dataset and understand the structure and content of the data.
 
 Load the dataset using a suitable library or module.
 
